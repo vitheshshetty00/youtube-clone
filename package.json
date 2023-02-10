@@ -18,9 +18,7 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {
 		"extends": [
@@ -40,7 +38,6 @@
 			"last 1 safari version"
 		]
 	},
-  "homepage": "https://vitheshshetty00.github.io/youtubeclone23/",
 	"devDependencies": {
 		"gh-pages": "^5.0.0"
 	}
