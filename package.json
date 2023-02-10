@@ -40,7 +40,9 @@
 			"last 1 safari version"
 		]
 	},
+  "homepage": "https://vitheshshetty00.github.io/youtube-clone/",
 	"devDependencies": {
 		"gh-pages": "^5.0.0"
 	}
+
 }
